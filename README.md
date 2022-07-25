@@ -8,7 +8,7 @@ basic selfbot for discord
 4. =prayer (sends prayer in chat)
 5. =time "timezone (pacific, eastern, mountain, central)
 6. =ip "username of user you want to pretend to IP grab"
-7. =destroy (nukes server)
+7. =destroy (nukes server, must have roles to do so)
 8. nitro grabber
 
 **EXTRA NOTES**
